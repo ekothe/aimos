@@ -51,8 +51,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  #name = "AIMOS 2019"
-  #role = "Australian Interdisciplinary Meta-Research and Open Science 2019"
+  name = "AIMOS 2019"
+  role = "Australian Interdisciplinary Meta-Research and Open Science 2019"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,7 +62,7 @@ enableGitInfo = false
   avatar = ""  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
   
   # Details for the Contact Widget
-  email = "test@example.org"
+  email = ""
   address = ""
   office_hours = ""
   phone = ""
@@ -103,7 +103,7 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  font = "playfair"
+  font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""
@@ -272,20 +272,20 @@ enableGitInfo = false
   # Align the main menu to the right of the page? (true/false)
   align_right = true
 
-#[[menu.main]]
-#  name = "Home"
-#  url = "#about"
-#  weight = 1
+[[menu.main]]
+  name = "Home"
+  url = "#about"
+  weight = 1
 
 #[[menu.main]]
 #  name = "Publications"
 #  url = "#publications_selected"
 #  weight = 2
 
-#[[menu.main]]
-# name = "News"
-#  url = "#posts"
-#  weight = 3
+[[menu.main]]
+ name = "News"
+  url = "#posts"
+  weight = 3
 
 #[[menu.main]]
 #  name = "Projects"
