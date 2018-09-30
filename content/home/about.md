@@ -3,14 +3,12 @@
 widget = "about"
 active = true
 date = 2016-04-20T00:00:00
-title = "AIMOS 2019"
+title = ""
 
 # Order that this section will appear in.
 weight = 5
  
 +++
-
-# AIMOS 2019
 
 The Australasian Meta-Research and Open Science Meeting is hosted by researchers from a range of disciples (including psychology, statistics, and ecology) with a shared interest in understanding and addressing challenges to open science. 
 
