@@ -10,8 +10,8 @@ weight = 5
  
 +++
 
-The Australasian Meta-Research and Open Science Meeting is hosted by researchers from a range of disciplines (including psychology, statistics, and ecology) with a shared interest in understanding and addressing challenges to open science. 
+The Australasian Meta-Research and Open Science Meeting is hosted by researchers from a range of disciplines (including psychology, statistics, and ecology) with a shared interest in understanding and addressing challenges to replicability, reproducibility and open science. 
 
-We welcome students and academic staff to join us for two days of workshops, hackathons, and presentations about Open Science methods and developments, such as pre-registration, using R for analysis, open source experimental programming, promoting diversity, etc. 
+We welcome interested students and researchers to join us for two days of workshops, hackathons, and presentations about a broad range of open science and scientific reform topics, including: pre-registration and Registered Reports; peer review and scientific publishing; using R for analysis; open source experimental programming; meta-research; replicability; improving statistical and scientific inference; diversity in scientific community and practice; and methodological and scientific culture change.
 
-Much of our meeting time will consist of unstructured conversations and workgroups to develop and promote open science practices, particularly in Australia and New Zealand.
+Much of our meeting time will consist of unstructured conversations and workgroups to develop and promote open science practices.
