@@ -10,7 +10,7 @@ weight = 5
  
 +++
 
-The Australasian Meta-Research and Open Science Meeting is hosted by researchers from a range of disciples (including psychology, statistics, and ecology) with a shared interest in understanding and addressing challenges to open science. 
+The Australasian Meta-Research and Open Science Meeting is hosted by researchers from a range of disciplines (including psychology, statistics, and ecology) with a shared interest in understanding and addressing challenges to open science. 
 
 We welcome students and academic staff to join us for two days of workshops, hackathons, and presentations about Open Science methods and developments, such as pre-registration, using R for analysis, open source experimental programming, promoting diversity, etc. 
 
