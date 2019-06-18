@@ -1,0 +1,20 @@
++++
+title = "Visit our conference website"
+
+date = 2019-06-19T00:00:00
+lastmod = 2019-06-19T00:00:00
+draft = false
+
+# Authors. Comma separated list, e.g. `["Bob Smith", "David Jones"]`.
+authors = []
+
+tags = ["News"]
+summary = "Our conference website is now live and has lots of information about what we have planned in November"
+
+[header]
+image = ""
+caption = ""
+
++++
+
+Visit our conference website at https://www.aimos2019conference.com/ for information about our exciting line up of keynote speakers, how to submit an abstract, and key dates for registration.
