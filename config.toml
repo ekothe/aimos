@@ -9,7 +9,7 @@
 baseurl = "/"
 
 # Title of your site
-title = "AIMOS 2019"
+title = "AIMOS"
 
 # Your copyright notice - appears in site footer.
 # To display a copyright symbol, type `&copy;`.
@@ -51,8 +51,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "AIMOS 2019"
-  role = "Australian Interdisciplinary Meta-Research and Open Science 2019 | November 7-8 2019"
+  name = "AIMOS"
+  role = "Australian Interdisciplinary Meta-Research and Open Science"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
